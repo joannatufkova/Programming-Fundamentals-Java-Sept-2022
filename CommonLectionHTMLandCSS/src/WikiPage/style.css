@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: saddlebrown;
+}
+
+p{
+    font-family: "Calibri";
+    font-size: 23px;
+}
+
+p.brownParagraph{
+    color: brown;
+}
+
+body{
+    background-color: antiquewhite;
+}
